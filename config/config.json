@@ -3,7 +3,7 @@
     "username": "root",
     "password": null,
     "database": "database_development",
-    "host": "nodeconf-sqlite",
+    "host": "db.sqlite",
     "dialect": "sqlite"
   },
   "test": {

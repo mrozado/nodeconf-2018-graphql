@@ -1,4 +1,10 @@
 {
+  "name": "NodeConfAr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Francisco Reynolds <freynolds@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "express": "^4.16.4",
     "express-graphql": "^0.6.12",
